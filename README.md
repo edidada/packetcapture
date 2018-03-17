@@ -1,7 +1,9 @@
-Wireshark抓http下载二进制二进制文件报文
+# Win平台下抓包教程
 
-Wireshark抓tcp连接报文
+- Wireshark抓http下载二进制二进制文件报文
+- Wireshark抓tcp连接报文
 
+win平台下设置抓本机包
 windows平台以管理员身份运行
 其中，192.168.1.104是本机内网ip地址，192.168.1.1是路由器地址
 
